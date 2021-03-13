@@ -5,7 +5,7 @@ Parameters:
   # Ownership
   Owner:
     Type: String
-    Default: FirstName LastName
+    Default: myvpc
   Project:
     Type: String
     Default: MySQL RDS Creation
